@@ -43,4 +43,3 @@ class CheckoutSolution:
 
         return total_bill
 
-
