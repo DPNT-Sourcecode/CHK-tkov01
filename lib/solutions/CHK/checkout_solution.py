@@ -36,4 +36,3 @@ class CheckoutSolution:
     total_bill += item_counts['E'] * prices['E']
 
     return total_bill
-
